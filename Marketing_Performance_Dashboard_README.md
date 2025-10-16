@@ -50,13 +50,3 @@ The goal was to track spending efficiency, engagement, and profitability to help
 - Identified campaigns with **high spend but low conversion**, suggesting optimization areas.  
 - Provided visibility into **monthly performance trends**, helping reallocate budget efficiently.  
 
----
-
-## 🙌 Acknowledgment  
-Big thanks to **Abdelrahman Ashour** for introducing us to a **new domain (Marketing)** and a **fresh case study** to work on — it pushed us beyond our comfort zone and gave us real-world experience in marketing analytics using Power BI.  
-
----
-
-## 📷 Dashboard Preview  
-*(Add a screenshot or Power BI Public link here)*  
-> Example: [View on Power BI Service](https://app.powerbi.com/)
